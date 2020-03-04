@@ -557,7 +557,11 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1583356418712	Marionette	INFO	Listening on port 53015
 1583356419693	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_FAILURE
-1583356502701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANONYM~1\\AppData\\Local\\Temp\\rust_mozprofilevM0MLM"
+1583357426354	Marionette	INFO	Stopped listening on port 53015
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ANONYM~1\\AppData\\Local\\Temp\\rust_mozprofilevM0MLM"
 1583356507465	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
 1583356512547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1583356512548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
