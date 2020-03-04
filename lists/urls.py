@@ -24,5 +24,5 @@ urlpatterns = [
     re_path(r'^lists/(\d+)/$', view_list,name='view_list'),
     re_path(r'^lists/(\d+)/add_item$', add_item, name='add_item'),
 
-    path('lists/new',new_list,name='new_list'),
+    path('list/new',new_list,name='new_list'),
 ]
