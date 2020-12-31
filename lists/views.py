@@ -2,6 +2,7 @@ from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from lists.models import Item,List
 # Create your view
+#comment
 
 def home_page(request):
 	if request.method == 'POST':
