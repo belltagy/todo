@@ -15,7 +15,7 @@ django-rest-auth==0.9.5
 django-rest-authtoken==1.2.2
 django-rest-swagger==2.2.0
 django-storages==1.9.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==1.2
 docutils==0.15.2
